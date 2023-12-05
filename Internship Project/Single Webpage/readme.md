@@ -63,8 +63,7 @@ JavaScript files (main.js and animation.js) are included at the end of the body,
 ![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Screenshot/Screenshot%202023-12-05%20135004.png)
 
 
-## Demo
-
-https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Gif/screen-capture%20(1).gif
+## Demo:
+(https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Gif/screen-capture%20(1).gif)
 
 
