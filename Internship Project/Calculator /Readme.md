@@ -51,6 +51,6 @@ These lessons collectively contribute to a comprehensive understanding of web de
 
 
 ## Demo
-![] (https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Calculator%20/gif/screen-capture.gif)
+![](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Calculator%20/gif/screen-capture.gif)
 
 
