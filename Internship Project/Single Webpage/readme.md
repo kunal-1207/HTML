@@ -65,6 +65,6 @@ JavaScript files (main.js and animation.js) are included at the end of the body,
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Gif/screen-capture%20(1).gif
 
 
