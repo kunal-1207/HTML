@@ -48,7 +48,7 @@ JavaScript files (main.js and animation.js) are included at the end of the body,
 ## Screenshots
 
 ![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Screenshot/Screenshot%202023-12-05%20134851.png)
-![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Screenshot/Screenshot%202023-12-05%20134851.png)
+![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Screenshot/Screenshot%202023-12-05%20134935.png)
 ![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Single%20Webpage/Screenshot/Screenshot%202023-12-05%20134851.png)
 
 
