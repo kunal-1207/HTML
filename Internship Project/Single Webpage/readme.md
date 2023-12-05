@@ -21,12 +21,10 @@ The HTML structure seems well-organized with the standard document structure (DO
 <br>
 
 - **CSS and JavaScript Libraries:**<br>
-The code includes links to external CSS and JavaScript libraries (Font Awesome, jQuery) hosted on content delivery networks (CDNs). This is a good practice for efficiency and performance.
-<br>
+The code includes links to external CSS and JavaScript libraries (Font Awesome, jQuery) hosted on content delivery networks (CDNs). This is a good practice for efficiency and performance.<br>
 
 - **Responsive Design:**<br>
-The use of the viewport meta tag (<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />) indicates an awareness of responsive design for various devices.
-<br>
+The use of the viewport meta tag (<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />) indicates an awareness of responsive design for various devices.<br>
 
 - **Font Loading:**<br>
 The code includes the preconnect link for Google Fonts, suggesting an intention to use custom fonts. The specified font families are Cormorant Garamond, Dancing Script, and Josefin Sans.<br>
