@@ -31,9 +31,11 @@ Additionally, the project emphasizes the significance of combining functionality
 
 ## Screenshots
 
-![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231259.png)<br>
-![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231544.png)<br>
-![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231745.png)<br>
+![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231259.png)
+
+![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231544.png)
+
+![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231745.png)
 
 ## Demo
 
