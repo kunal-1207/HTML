@@ -47,10 +47,10 @@ These lessons collectively contribute to a comprehensive understanding of web de
 
 ## Screenshots
 
-![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Calculator%20/screenshot/Screenshot%202023-12-05%20182825.png)
+![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Calculator/screenshot/Screenshot%202023-12-05%20182825.png)
 
 
 ## Demo
-![](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Calculator%20/gif/screen-capture.gif)
+![](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/Calculator/gif/screen-capture.gif)
 
 
