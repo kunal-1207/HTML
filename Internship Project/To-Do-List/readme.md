@@ -39,5 +39,4 @@ Additionally, the project emphasizes the significance of combining functionality
 
 ## Demo
 
-Insert gif or link to demo
-
+![](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/gif/screen-capture.gif)
