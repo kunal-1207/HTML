@@ -32,7 +32,7 @@ Additionally, the project emphasizes the significance of combining functionality
 ## Screenshots
 
 ![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231259.png)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/kunal-1207/HTML/blob/main/Internship%20Project/To-Do-List/screenshot/Screenshot%202023-11-02%20231544.png)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Demo
